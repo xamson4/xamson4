@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xamson4
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on a web3 e-commerce
+- 💞️ I’m looking to collaborate on a web3 e-commerce dapp
 - 📫 How to reach me samsonssewanyana68@gmail.com
 
 <!---
